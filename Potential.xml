@@ -1,0 +1,25 @@
+{
+  "PBXMLPotential": {
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "Cccd": "HBANSODE",
+    "PotentialNo": "7",
+    "PotentialOwner": "74",
+    "Amount": "100000",
+    "PotentialName": "Naidu",
+    "ClosingDate": "2020-02-14T00:00:00",
+    "AccountName": "32",
+    "Stage": "5356",
+    "Type": "5376",
+    "Probability": "75",
+    "NextStep": "1111",
+    "ExpectedRevenue": "900",
+    "LeadSource": "5266",
+    "CampaignSource": "0",
+    "ContactName": "19",
+    "CreatedBy": "74",
+    "CreatedDate": "0001-01-01T00:00:00",
+    "LastUpdatedBy": "74",
+    "LastUpdatedDate": "0001-01-01T00:00:00"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "PBXMLActivities": {
+    "Cccd": "HBANSODE",
+    "ActivityNo": "7",
+    "ContactLead": "0",
+    "AccountOption": "5302",
+    "ActivityOwner": "74",
+    "Subject": "hhhh",
+    "ActivityType": "Call",
+    "ContactName": "19",
+    "RelatedTo": "5",
+    "Description": "kk",
+    "DueDate": "2020-02-04T16:18:55.8710838+05:30",
+    "Status": "0",
+    "Priority": "0",
+    "SendNoficatnEmail": "False",
+    "StartDateTime": "2020-02-04T16:18:56.9149193+05:30",
+    "EndDateTime": "2020-02-04T16:18:57.1567931+05:30",
+    "CallType": "Outbound",
+    "CallPurpose": "5308",
+    "CallStartTime": "2020-02-07T01:00:00",
+    "CallDurationInSec": "0",
+    "Billable": "True",
+    "CallResult": "good",
+    "CreatedBy": "74",
+    "CreatedDate": "0001-01-01T00:00:00",
+    "LastUpdatedBy": "74",
+    "LastUpdatedDate": "0001-01-01T00:00:00"
+  }
+}
